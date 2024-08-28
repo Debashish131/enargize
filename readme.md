@@ -1,4 +1,4 @@
-# Human Resource Management System
+# Enargize Software Toolkit
 
 Human Resource Management System is a combination of systems and processes that connect human resource management and information technology through HRMS software.
 
